@@ -1,10 +1,12 @@
+import Navbar from "./components/Navbar"
+import TaskForm from "./components/TaskForm"
 
 function App() {
-  
 
   return (
     <>
-      <h1>App</h1>
+      <Navbar />
+      <TaskForm />
     </>
   )
 }
