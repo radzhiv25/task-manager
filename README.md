@@ -14,7 +14,7 @@ A simple and intuitive task manager (to-do) application built with ReactJS and T
 
 ## Demo
 
-Check out the live demo: [Task Manager Demo](https://your-demo-link.com)
+Check out the live demo: [Task Manager Demo](https://alpha-task-manager.vercel.app)
 
 ## Features
 
