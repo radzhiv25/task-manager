@@ -1,5 +1,6 @@
 import React from "react";
 import { BsGithub } from "react-icons/bs";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
@@ -13,7 +14,9 @@ const Navbar = () => {
           <p className="text-xs">manage your tasks in few clicks</p>
         </span>
       </div>
+      <Link to="https://github.com/radzhiv25/task-manager">
       <BsGithub className="size-8 hover:text-gray-500" />
+      </Link>
     </div>
   );
 };
