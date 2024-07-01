@@ -1,6 +1,6 @@
 # Task Manager
 
-A simple and intuitive task manager (to-do) application built with ReactJS and TailwindCSS. This application allows users to add, edit, delete, and mark tasks as completed, helping you stay organized and productive.
+A simple and intuitive task manager (to-do) application built with ReactJS and TailwindCSS. This application allows users to add, delete and mark tasks as completed, helping you stay organized and productive.
 
 ## Table of Contents
 
