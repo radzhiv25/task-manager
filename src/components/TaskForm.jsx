@@ -17,7 +17,7 @@ const TaskForm = ({ addTask }) => {
   };
   return (
     <div className="my-5">
-      <p className="mb-5 w-max mx-auto bg-white text-gray-500 text-sm rounded-full px-2 font-semibold py-1 border border-dashed border-gray-600 cursor-pointer hover:text-gray-800">
+      <p className="mb-5 w-max mx-auto bg-white text-gray-500 text-sm rounded-full px-2 font-semibold py-1 border border-dashed border-gray-400 cursor-pointer hover:text-gray-800 hover:border-gray-600">
         <Link to="https://github.com/radzhiv25/task-manager" className="flex items-center ">
           want to contribute{" "}
           <span>
